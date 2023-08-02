@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Humayune</h1>
 <h3 align="center">A passionate developer currently studying Computer Science in Institute of Space Technology (IST)</h3>
 
-- Reach me at **hhumayune@gmail.com**
+- Reach me at **hhumayune01@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
